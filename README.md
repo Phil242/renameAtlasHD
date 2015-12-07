@@ -78,8 +78,8 @@ en affiche la raison.
 
 **Compilation (optionnelle) :**
 
-Les binaires exécutables 32 et 64 linkés statiquement sont fournis pour vous éviter de compiler si vous n’êtes pas familier avec tout ça. Cependant, comme il est toujours bon de 
-recompiler soit même les programmes dans la rue vous pouvez le faire ainsi : « gcc nameMetaDat.c -o nameMetaDatXX » XX étant 32 ou 64 suivant si vous êtes en 32/64 bits.
+Les binaires exécutables 32 et 64 linkés statiquement sont fournis pour vous éviter de compiler si vous n’êtes pas familié avec tout ça. Cependant, comme il est toujours bon de 
+recompiler soit même les programmes des inconnus dans la rue, vous pouvez le faire ainsi : « gcc nameMetaDat.c -o nameMetaDatXX » XX étant 32 ou 64 suivant si vous êtes en 32/64 bits.
 
 
 **Reverse engineering du META.DAT :**
